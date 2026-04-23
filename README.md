@@ -30,5 +30,5 @@ In Fintech, a **False Negative** (approving a loan for someone who will default)
 ## Repository Structure
 * `Fintech_Loan_Risk_Engine.ipynb`: Data exploration, cleaning, and model training.
 * `app.py`: Streamlit application script.
-* `credit_risk_model.pkl`: Exported XGBoost model.
+* `model.pkl`: Exported XGBoost model.
 * `requirements.txt`: Environment dependencies.
